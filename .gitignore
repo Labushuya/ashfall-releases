@@ -1,0 +1,7 @@
+# Dieses Repository enthält nur die Download-Seite. APKs, Prüfsummen und latest.json liegen in den
+# Releases, nicht im Git-Verlauf. Alles außer den folgenden Dateien wird ignoriert.
+*
+!.gitignore
+!README.md
+!LICENSE
+!banner.png
