@@ -36,7 +36,8 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
 ## Das erwartet dich
 
 - **Ein Bunker, der wächst:** 13 Gebäude von der Werkstatt über den Funkturm bis zum Labor. Schrott, Nahrung,
-  Wasser und Energie fließen auch, wenn du nicht spielst, bis zu acht Stunden lang.
+  Wasser und Energie fließen auch, wenn du nicht spielst: bis zu acht Stunden im Nachtbetrieb mit halber Kraft.
+  Wer reinschaut, bringt den Bunker auf volle Leistung.
 - **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund.
   Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
 - **Eine Geschichte über Funk:** 71 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
@@ -47,6 +48,8 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
   dagegen steht.
 - **Kleine Schätze:** Ein tägliches Signal im Funk, Nadels Album mit allen Menschen und eine Vitrine für Relikte mit
   Geschichte.
+- **Die Karawane:** Alle zwei bis drei Tage steht für acht Stunden eine Karawane am Tor, mit drei Angeboten, die es
+  sonst nicht gibt.
 - **Benachrichtigungen, wenn du willst:** Etwa wenn ein Team zurück ist oder ein Sturm aufzieht. Jeder Bereich lässt
   sich abschalten, nachts ist Ruhe.
 
@@ -104,7 +107,8 @@ Nein. Ashfall läuft komplett auf deinem Gerät. Nur die Suche nach Updates und 
 <details>
 <summary><b>Was passiert, wenn ich ein paar Tage nicht spiele?</b></summary>
 
-Der Bunker arbeitet bis zu acht Stunden ohne dich weiter und wartet danach.
+Der Bunker arbeitet bis zu acht Stunden ohne dich im Nachtbetrieb weiter: besetzte Gebäude mit halber Kraft, leere
+fast gar nicht. Danach wartet er.
 Niemand verlässt ihn, weil du weg
 warst. Was nicht mehr ins Lager passt, bleibt allerdings draußen, und Sturmnächte kommen auch ohne dich. Wenn du
 Benachrichtigungen erlaubst, warnt Ashfall vorher.
@@ -142,7 +146,6 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.8.5 | **Die Karawane:** Alle zwei bis drei Tage steht ein Händler am Tor, mit Angeboten, die es sonst nicht gibt |
 | 0.8.6 | **Erfolge:** Die Stadt gibt dem Bunker Namen für das, was er schafft |
 | 0.8.7 | **Flocke, die Bunkerkatze:** Seit die Kantine kocht, kommen Ratten. Und dann sitzt da eines Morgens jemand im Regal |
 | 0.8.8 | **Boni auf einen Blick und mehr Funk:** Alles, was dem Bunker hilft, an einem Ort und in echten Zahlen, dazu neue Funksprüche unterwegs |
@@ -156,11 +159,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.8.5](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.5) | 29. Oktober 2026 | Die Karawane · Neu ausbalanciert · Aus euren Rückmeldungen |
 | [0.8.4](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.4) | 20. Oktober 2026 | Relikte |
 | [0.8.3](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.3) | 19. Oktober 2026 | Das Album · Behoben |
 | [0.8.2](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.2) | 11. Oktober 2026 | Tagessignal · Expeditionen · Fehlersuche |
 | [0.8.1](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.1) | 10. Oktober 2026 | Benachrichtigungen · Expeditionen · Kleinigkeiten · Neues Symbol |
-| [0.8.0](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.0) | 10. Oktober 2026 | Menschen und Regeln · Aus euren Rückmeldungen |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter

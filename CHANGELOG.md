@@ -2,6 +2,42 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.8.5 · 29. Oktober 2026
+
+### Die Karawane
+
+- **Wagen am Tor:** Alle zwei bis drei Tage steht eine Karawane für acht Stunden vor dem Bunker. Unter Bunker siehst
+  du, ob sie da ist und wie lange sie bleibt.
+- **Seltene Angebote:** Sie bringt drei Angebote mit, die es hier sonst nicht gibt, etwa einen Verbandskasten,
+  eine Kiste Schrauben, Fachbücher oder Ausrüstung. Jedes gibt es einmal je Besuch.
+- **Benachrichtigung:** Hast du Benachrichtigungen eingeschaltet, meldet sich Ashfall, wenn die Karawane am Tor steht.
+
+### Neu ausbalanciert
+
+Der Bunker wuchs zu schnell in die Millionen, und alles außer den Ausbauten war geschenkt. Deshalb:
+
+- **Boni zählen zusammen:** In Werkstatt, Generator, Gewächshaus und Zisterne werden die Boni einer Person jetzt
+  addiert statt malgenommen: Klasse, Stufe, Stimmung, Übung, Erlass und Eigenschaften. Jede Person zählt weiter voll,
+  mehr Leute bringen immer mehr. Ein Beispiel aus einem echten Bunker: Eine erfahrene Person in der Werkstatt
+  brachte bisher das 4,2-fache, jetzt das 3,3-fache.
+- **Meilensteine:** Ab Stufe 10, 25, 50 und 100 steigt die Produktion um je 50 % statt sich zu verdoppeln.
+- **Nachtbetrieb:** Ohne App arbeiten diese vier Gebäude bis zu acht Stunden besetzt mit 50 %, leer mit 10 %, und
+  brauchen entsprechend weniger Strom. Mit App gilt wie bisher 100 %, leer 25 %. Gegessen und getrunken wird wie
+  immer, die Lampen an den Orten brennen weiter.
+- **Was bleibt:** Vorräte, Stufen, Leute, Funksprüche und alles Erreichte bleiben, wie sie sind. Wachposten, Labor,
+  Funkturm, Kantine, Krankenstation und Waffenkammer rechnen wie bisher, Sturmnächte, Forschung und Funkrufe ändern
+  sich nicht. Ausbauten kosten dasselbe.
+- **Was weniger wird:** Die Produktion je Sekunde. Eine Werkstatt auf Stufe 50 mit drei Leuten bringt etwa ein
+  Drittel von vorher, rund 350 statt 1.040 Schrott je Sekunde. Gleich nach dem Update stehen unter „Was ist neu“
+  deine eigenen Zahlen vorher und nachher, und im Fenster jedes Gebäudes, was es mit und ohne App bringt.
+
+### Aus euren Rückmeldungen
+
+- **Meldungen wegtippen:** Die Meldung oben im Bild hat jetzt einen Knopf. Er zeigt, in wie vielen Sekunden sie von
+  selbst verschwindet, und schließt sie auf Wunsch sofort. Was draufsteht, wechselt.
+
+Die Karawane kommt mit einem eigenen Funkspruch in Kapitel 4. Dein Spielstand bleibt erhalten.
+
 ## 0.8.4 · 20. Oktober 2026
 
 ### Relikte
