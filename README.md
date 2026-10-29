@@ -104,7 +104,8 @@ Nein. Ashfall läuft komplett auf deinem Gerät. Nur die Suche nach Updates und 
 <details>
 <summary><b>Was passiert, wenn ich ein paar Tage nicht spiele?</b></summary>
 
-Der Bunker arbeitet bis zu acht Stunden ohne dich weiter und wartet danach. Niemand verlässt ihn, weil du weg
+Der Bunker arbeitet bis zu acht Stunden ohne dich weiter und wartet danach.
+Niemand verlässt ihn, weil du weg
 warst. Was nicht mehr ins Lager passt, bleibt allerdings draußen, und Sturmnächte kommen auch ohne dich. Wenn du
 Benachrichtigungen erlaubst, warnt Ashfall vorher.
 </details>
