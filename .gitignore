@@ -3,5 +3,9 @@
 *
 !.gitignore
 !README.md
+!CHANGELOG.md
 !LICENSE
 !banner.png
+!social-preview.png
+!screens/
+!screens/*
