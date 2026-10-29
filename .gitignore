@@ -2,6 +2,7 @@
 # Releases, nicht im Git-Verlauf. Alles außer den folgenden Dateien wird ignoriert.
 *
 !.gitignore
+!.gdignore
 !README.md
 !CHANGELOG.md
 !LICENSE
