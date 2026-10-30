@@ -2,6 +2,59 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.8.6 · 30. Oktober 2026
+
+### Erst alles glatt ziehen
+
+Ein neuer Spieler hat Ashfall von vorne begonnen und aufgeschrieben, was hakt. Danach haben wir das Spiel selbst
+noch einmal als Neuling durchgespielt, gut 40 Stunden Spielzeit bis zu den ersten Sturmnächten. Dieses Update behebt
+alles, was dabei aufgefallen ist, bevor neue Inhalte kommen.
+
+### Nachts schlafen alle
+
+- **Halber Verbrauch ohne App:** Ohne App arbeitet der Bunker im Nachtbetrieb mit halber Kraft, und jetzt brauchen
+  die Leute auch nur halb so viel Nahrung und Wasser, Gebäude und Lampen halb so viel Strom. Bisher war ein neuer
+  Bunker nach zwei Stunden ohne App leer und musste sich mühsam erholen.
+- **Was bleibt:** Mit App ändert sich nichts. Wer mit App genug erzeugt, hat jetzt auch ohne App genug.
+
+### In Ruhe lesen
+
+- **Antippen bleibt offen:** Was du selbst antippst, etwa die Erklärung oder ein Rohstoff, bleibt stehen, bis du es
+  schließt. Die Willkommensmeldung ebenso.
+- **Zeit nach Länge:** Meldungen, die von selbst kommen, stehen so lange, wie man zum Lesen braucht, mindestens sieben
+  Sekunden. Kommt eine neue, wartet sie, statt die offene zu überschreiben.
+- **Ehrliche Willkommensmeldung:** Sie zeigt, was wirklich im Lager angekommen ist. Nach einer schweren Sturmnacht
+  stand dort bisher ein Plus, obwohl der Sturm etwas genommen hatte.
+
+### Mehr Platz
+
+- **Statuszeile nur bei Bedarf:** Die Zeile unter dem Titel erscheint, wenn es etwas zu melden gibt, etwa ein Mangel
+  oder ein Team, das auf Antwort wartet. Sonst ist sie weg. Wie der Bunker zusammenhängt, steht hinter dem „?“ neben
+  dem Menü.
+- **Nächster Schritt:** Lässt sich mit „×“ wegtippen und kommt mit dem nächsten Ziel wieder. Alle Ziele stehen
+  weiter unter Sektor.
+- **Einmal erklären:** Regeltexte, etwa zur Karte, zu Frequenzen oder zur Vitrine, stehen beim ersten Mal ganz da und
+  liegen danach hinter einem Fragezeichen. In den Einstellungen lassen sich alle wieder zeigen. Zahlen und Hinweise
+  vor Entscheidungen bleiben immer sichtbar.
+- **Lücke oben:** Die Rohstoffleiste rückt nur noch so weit nach unten, wie die Kamera es braucht.
+
+### Klarere Wege
+
+- **Was zuerst wichtig ist:** „Nächster Schritt“ meldet zuerst, wenn etwas ausgeht oder die nächste Sturmnacht nicht
+  hält, und sagt, was hilft. Steht etwas im Weg, etwa kein freies Bett, nennt er das. Wer ihm am Anfang folgt, gerät
+  nicht mehr in den Hunger.
+- **Was fehlt:** Bei Ausbau und Funkruf steht, wie viel Schrott oder Strom noch fehlt.
+- **Funkruf:** Wer sich ans Gerät setzt, macht auch einen laufenden Ruf sofort schneller. Im Funkturm steht für jede
+  Person, wie lange ein Ruf mit ihr dauert.
+- **Folgen vorher:** Entscheidungen und Fragen von Teams nennen ihre Wirkung, bevor du wählst.
+- **Teams:** Vorgeschlagen werden zuerst Leute ohne Arbeit, wenn die Chance dadurch nicht sinkt.
+- **Ruhiger:** Wünsche kommen nacheinander statt für alle auf einmal, offene Talente sind höchstens bei zwei Leuten
+  markiert. Fragen von Teams passen zum Ort und wiederholen sich nicht so schnell.
+- **Kleinigkeiten:** Das Logbuch zeigt Uhrzeiten, gesperrte Gebäude stehen unten in der Liste, Kapitel, die
+  nebeneinander laufen, stehen beide im Sektor, und ein paar Texte stimmen jetzt.
+
+Dein Spielstand bleibt erhalten.
+
 ## 0.8.5 · 29. Oktober 2026
 
 ### Die Karawane

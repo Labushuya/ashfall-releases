@@ -146,7 +146,6 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.8.6 | **Feinschliff:** Nachts halber Verbrauch, Meldungen mit Zeit zum Lesen, mehr Platz und klarere Wege für alle, die neu anfangen |
 | 0.8.7 | **Erfolge:** Die Stadt gibt dem Bunker Namen für das, was er schafft |
 | 0.8.8 | **Flocke, die Bunkerkatze:** Seit die Kantine kocht, kommen Ratten. Und dann sitzt da eines Morgens jemand im Regal |
 | 0.8.9 | **Boni auf einen Blick und mehr Funk:** Alles, was dem Bunker hilft, an einem Ort und in echten Zahlen, dazu neue Funksprüche unterwegs |
@@ -160,11 +159,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.8.6](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.6) | 30. Oktober 2026 | Erst alles glatt ziehen · Nachts schlafen alle · In Ruhe lesen · Mehr Platz · Klarere Wege |
 | [0.8.5](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.5) | 29. Oktober 2026 | Die Karawane · Neu ausbalanciert · Aus euren Rückmeldungen |
 | [0.8.4](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.4) | 20. Oktober 2026 | Relikte |
 | [0.8.3](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.3) | 19. Oktober 2026 | Das Album · Behoben |
 | [0.8.2](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.2) | 11. Oktober 2026 | Tagessignal · Expeditionen · Fehlersuche |
-| [0.8.1](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.1) | 10. Oktober 2026 | Benachrichtigungen · Expeditionen · Kleinigkeiten · Neues Symbol |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter
