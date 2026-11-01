@@ -2,6 +2,70 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.9.0 · 1. November 2026
+
+### Alles auf einmal
+
+Dieses große Update bringt drei fertige Pakete zusammen: das Ende von Sektor 7, Flocke, die Bunkerkatze, und Boni und
+Funksprüche, die zeigen, was sie wirklich bringen. Alles kommt im Spiel einzeln zu dir, mit eigenen Funksprüchen und
+Erklärungen, wenn es so weit ist.
+
+### Die Tür
+
+- **Das Ende von Sektor 7:** Nach der Peilung im Labor weiß der Bunker, woher die Männerstimme kommt. Die Nummer auf
+  der Dienstmarke öffnet die Stahltür der Versuchsanlage S. Sie ist der gefährlichste Ort in Sektor 7. Schickt die
+  Erfahrensten, mit Rüstung, Licht und genug Proviant.
+- **Ebene 3:** Was dort unten läuft und wer die Stillen sind, erfahrt ihr selbst. Danach steht die letzte Entscheidung
+  von Sektor 7 an, wie immer mit Nachfrage.
+- **Drei Enden:** Jede Wahl verändert die Sturmnächte für immer. Eine davon steht nur offen, wenn ihr früher eine
+  bestimmte Entscheidung getroffen habt. Ist sie gesperrt, steht dabei, warum.
+- **Station 0:** Nach der Entscheidung meldet sich der Leuchtturm. Kapitel 5 ist damit abgeschlossen. Ihr spielt in
+  Sektor 7 einfach weiter, solange ihr wollt. Wie der Weg nach Norden beginnt, erzählt das nächste große Update.
+- **Vorher kein Rätsel:** Bis es so weit ist, sagt die Versuchsanlage S, dass ihre Tür später in Kapitel 5 aufgeht,
+  auch nicht mit einem Code oder bestimmten Leuten im Team.
+- **Ausblicke:** Danach melden sich im Bunker noch einige zu Wort, die in der Stimme vom Leuchtturm etwas hören, das
+  sie kennen. Wer mit Ruß unterwegs war, sollte sich seine Marke genau ansehen.
+
+### Handbuch
+
+- **Unter Archiv, Handbuch:** Kurze Erklärungen zu allem, was ihr schon kennt, vom Bunker über Expeditionen und
+  Sturmnächte bis zu Erlassen und der Karawane. Die Zahlen darin kommen direkt aus dem Spiel. Neues kommt dazu,
+  sobald es freigeschaltet ist.
+
+### Flocke, die Bunkerkatze
+
+- **Besuch im Lager:** Seit die Kantine kocht, kommen Ratten. Nach der dritten Sturmnacht sitzt eines Morgens eine
+  graue Katze auf dem obersten Regal und bleibt.
+- **Weniger Verbrauch:** Flocke hält die Ratten aus dem Lager, ihr verbraucht 10 % weniger Nahrung.
+- **Jeden Tag woanders:** Unter Leute bei den Gefährten siehst du, bei wem sie heute schläft. Tippst du sie an,
+  erfährst du mit jedem Tag im Bunker ein wenig mehr über sie, aus dem, was die anderen über sie erzählen.
+- **Wann sie kommt:** Flocke kommt mit einem eigenen Funkspruch in Kapitel 4.
+
+### Boni auf einen Blick
+
+- **Alles an einem Ort:** Unter Archiv, Boni steht jetzt alles, was dem Bunker hilft: beleuchtete Orte, Forschung,
+  Chronik, Vitrine, Ruß, Flocke, Ortskenntnis, Kantine, Hoffnung, Erlasse, Entscheidungen, die Lichtträger, Talente
+  und Ränge aus Übung.
+- **In echten Zahlen:** Bei jedem Bonus steht, was er gerade bringt, zum Beispiel +4,6 Schrott je Sekunde, ein
+  Funkruf 4 Minuten kürzer oder Heilung 18 % schneller. Erlasse zeigen Vor- und Nachteil.
+- **Kurze Meldung:** Kommt ein Bonus dazu, sagt eine Nachricht im Spiel, was er bringt.
+
+### Funksprüche unterwegs
+
+- **Wirkung vorher sehen:** Unter jeder Antwort steht, was sie bewirkt, mit Zahlen für genau diese Expedition: wie
+  sich die Chance auf Erfolg ändert, wie viel mehr Beute es bei Erfolg wird, wie viel Erfahrung oder Ruf.
+- **Wirkung danach lesen:** Der Bericht sagt, was die Antwort tatsächlich gebracht hat.
+- **Jede Antwort zählt:** Antworten wirken jetzt spürbar, etwa jede Hürde 10 % leichter oder 40 % mehr Beute.
+- **Keine Wiederholungen:** Kein Funkspruch kommt doppelt, bevor alle anderen dran waren, und zwei Teams hören nie
+  denselben zur gleichen Zeit.
+- **Acht neue Funksprüche:** ein Hydrant mit Druck, eine Apotheke, ein Kinderwagen voller Dosen, eine Fassade, die
+  nachgibt, ein Keller voller Ratten, ein Auto mit vollem Tank, ein Regal voller Bücher und ein Dachgarten.
+- **Der Mann hinter dem Bus:** Aus dem Fremden im Schatten wird eine kleine Geschichte. Wer ihn öfter anspricht,
+  erfährt, wer er ist, und am Ende hilft er den Teams.
+- **Klarere Texte:** Funksprüche, die sich zu ähnlich anhörten, klingen jetzt deutlich verschieden.
+
+Dein Spielstand bleibt erhalten.
+
 ## 0.8.7 · 1. November 2026
 
 ### Erfolge

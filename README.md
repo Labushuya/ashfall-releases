@@ -38,10 +38,10 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
 - **Ein Bunker, der wächst:** 13 Gebäude von der Werkstatt über den Funkturm bis zum Labor. Schrott, Nahrung,
   Wasser und Energie fließen auch, wenn du nicht spielst: bis zu acht Stunden im Nachtbetrieb mit halber Kraft.
   Wer reinschaut, bringt den Bunker auf volle Leistung.
-- **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund.
-  Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
-- **Eine Geschichte über Funk:** 73 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
-  für deinen Bunker gilt und verändert, wie es weitergeht.
+- **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund, und
+  Flocke, die Bunkerkatze. Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
+- **Eine Geschichte über Funk:** 84 Funksprüche in fünf Kapiteln, bis zum Ende von Sektor 7 mit drei möglichen
+  Enden. Manche verlangen eine Entscheidung, die für deinen Bunker gilt und verändert, wie es weitergeht.
 - **Eine Stadt zum Zurückholen:** 16 Orte vom Wohnblock bis zur Oper. Expeditionen mit Etappen, Proviant und
   Ausrüstung bringen Beute, Funde und Dokumente heim. Jeder beleuchtete Ort hilft dem Bunker.
 - **Sturmnächte:** Etwa einmal am Tag zieht ein Aschesturm auf. Du siehst genau, was die Abwehr ausmacht und was
@@ -52,6 +52,8 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
   sonst nicht gibt.
 - **Erfolge:** Für vieles, was du schaffst, gibt die Stadt deinem Bunker einen Namen. Einen davon schreibst du an die
   Tür.
+- **Alles nachschlagbar:** Ein Handbuch erklärt alles, was du schon kennst, und unter Boni steht, was dem Bunker
+  gerade hilft, in echten Zahlen.
 - **Benachrichtigungen, wenn du willst:** Etwa wenn ein Team zurück ist oder ein Sturm aufzieht. Jeder Bereich lässt
   sich abschalten, nachts ist Ruhe.
 
@@ -149,7 +151,6 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.9.0 | **Die Tür und mehr:** Das Ende von Sektor 7 mit drei Enden, dazu Flocke, die Bunkerkatze, Boni auf einen Blick, ein Handbuch und neue Funksprüche unterwegs |
 | 0.9.1 | **Weiterziehen:** Mit Erinnerungen und Veteranen in einen neuen Sektor |
 | 1.0.0 | **Google Play:** Ashfall im Play Store |
 <!-- vorschau:end -->
@@ -159,11 +160,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.9.0](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.0) | 1. November 2026 | Alles auf einmal · Die Tür · Handbuch · Flocke, die Bunkerkatze · Boni auf einen Blick · Funksprüche unterwegs |
 | [0.8.7](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.7) | 1. November 2026 | Erfolge · Wie eine richtige App |
 | [0.8.6](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.6) | 30. Oktober 2026 | Erst alles glatt ziehen · Nachts schlafen alle · In Ruhe lesen · Mehr Platz · Klarere Wege |
 | [0.8.5](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.5) | 29. Oktober 2026 | Die Karawane · Neu ausbalanciert · Aus euren Rückmeldungen |
 | [0.8.4](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.4) | 20. Oktober 2026 | Relikte |
-| [0.8.3](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.3) | 19. Oktober 2026 | Das Album · Behoben |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter
