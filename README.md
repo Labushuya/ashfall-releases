@@ -149,9 +149,7 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.8.8 | **Flocke, die Bunkerkatze:** Seit die Kantine kocht, kommen Ratten. Und dann sitzt da eines Morgens jemand im Regal |
-| 0.8.9 | **Boni auf einen Blick und mehr Funk:** Alles, was dem Bunker hilft, an einem Ort und in echten Zahlen, dazu neue Funksprüche unterwegs |
-| 0.9.0 | **Die Tür:** Das Ende von Sektor 7, mit einer letzten Entscheidung und drei Enden |
+| 0.9.0 | **Die Tür und mehr:** Das Ende von Sektor 7 mit drei Enden, dazu Flocke, die Bunkerkatze, Boni auf einen Blick, ein Handbuch und neue Funksprüche unterwegs |
 | 0.9.1 | **Weiterziehen:** Mit Erinnerungen und Veteranen in einen neuen Sektor |
 | 1.0.0 | **Google Play:** Ashfall im Play Store |
 <!-- vorschau:end -->
