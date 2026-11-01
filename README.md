@@ -40,7 +40,7 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
   Wer reinschaut, bringt den Bunker auf volle Leistung.
 - **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund.
   Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
-- **Eine Geschichte über Funk:** 71 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
+- **Eine Geschichte über Funk:** 72 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
   für deinen Bunker gilt und verändert, wie es weitergeht.
 - **Eine Stadt zum Zurückholen:** 16 Orte vom Wohnblock bis zur Oper. Expeditionen mit Etappen, Proviant und
   Ausrüstung bringen Beute, Funde und Dokumente heim. Jeder beleuchtete Ort hilft dem Bunker.
