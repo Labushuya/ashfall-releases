@@ -40,7 +40,7 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
   Wer reinschaut, bringt den Bunker auf volle Leistung.
 - **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund.
   Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
-- **Eine Geschichte über Funk:** 72 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
+- **Eine Geschichte über Funk:** 73 Funksprüche in bisher fünf Kapiteln. Manche verlangen eine Entscheidung, die
   für deinen Bunker gilt und verändert, wie es weitergeht.
 - **Eine Stadt zum Zurückholen:** 16 Orte vom Wohnblock bis zur Oper. Expeditionen mit Etappen, Proviant und
   Ausrüstung bringen Beute, Funde und Dokumente heim. Jeder beleuchtete Ort hilft dem Bunker.
@@ -50,6 +50,8 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
   Geschichte.
 - **Die Karawane:** Alle zwei bis drei Tage steht für acht Stunden eine Karawane am Tor, mit drei Angeboten, die es
   sonst nicht gibt.
+- **Erfolge:** Für vieles, was du schaffst, gibt die Stadt deinem Bunker einen Namen. Einen davon schreibst du an die
+  Tür.
 - **Benachrichtigungen, wenn du willst:** Etwa wenn ein Team zurück ist oder ein Sturm aufzieht. Jeder Bereich lässt
   sich abschalten, nachts ist Ruhe.
 
@@ -125,9 +127,10 @@ Datei `.sha256`. Lade Ashfall nur von dieser Seite.
 <details>
 <summary><b>Ich habe einen Fehler gefunden. Was nun?</b></summary>
 
-Unter Menü, Fehlersuche tippst du auf „Fehlerbericht kopieren“. Der Bericht enthält Gerät, Version, die letzten
-Ereignisse im Spiel und deinen Spielstand, sonst nichts, und wird nie von selbst verschickt. Schick ihn an die Person,
-von der du Ashfall hast. Sie leitet ihn weiter.
+Unter Menü, Fehlersuche tippst du auf „Fehlerbericht kopieren“. Der Bericht enthält Gerät, Version, Bildschirm, eine
+kurze Zusammenfassung deines Bunkers und die letzten 40 Ereignisse im Spiel, sonst nichts, und wird nie von selbst
+verschickt. Deinen ganzen Spielstand gibt es nur über „Mit Spielstand kopieren“. Schick den Bericht an die Person, von
+der du Ashfall hast. Sie leitet ihn weiter.
 </details>
 
 <details>
@@ -146,7 +149,6 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.8.7 | **Erfolge:** Die Stadt gibt dem Bunker Namen für das, was er schafft |
 | 0.8.8 | **Flocke, die Bunkerkatze:** Seit die Kantine kocht, kommen Ratten. Und dann sitzt da eines Morgens jemand im Regal |
 | 0.8.9 | **Boni auf einen Blick und mehr Funk:** Alles, was dem Bunker hilft, an einem Ort und in echten Zahlen, dazu neue Funksprüche unterwegs |
 | 0.9.0 | **Die Tür:** Das Ende von Sektor 7, mit einer letzten Entscheidung und drei Enden |
@@ -159,11 +161,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.8.7](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.7) | 1. November 2026 | Erfolge · Wie eine richtige App |
 | [0.8.6](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.6) | 30. Oktober 2026 | Erst alles glatt ziehen · Nachts schlafen alle · In Ruhe lesen · Mehr Platz · Klarere Wege |
 | [0.8.5](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.5) | 29. Oktober 2026 | Die Karawane · Neu ausbalanciert · Aus euren Rückmeldungen |
 | [0.8.4](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.4) | 20. Oktober 2026 | Relikte |
 | [0.8.3](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.3) | 19. Oktober 2026 | Das Album · Behoben |
-| [0.8.2](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.2) | 11. Oktober 2026 | Tagessignal · Expeditionen · Fehlersuche |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter

@@ -2,6 +2,34 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.8.7 · 1. November 2026
+
+### Erfolge
+
+- **Namen für den Bunker:** Für vieles, was ihr schafft, gibt euch die Stadt einen Namen. Wer zehn Expeditionen
+  hinter sich hat, gehört zu den Staubigen, wer eine Sturmnacht hält, zu den Sturmfesten. Was du schon geschafft
+  hast, zählt sofort.
+- **Ein Name an der Tür:** Einen erreichten Namen schreibst du an die Tür. Er steht dann oben unter Bunker und lässt
+  sich jederzeit wechseln.
+- **Was noch fehlt:** Im Archiv unter Chronik steht bei jedem offenen Erfolg, wie weit du bist. Erfolge zu Dingen,
+  die du noch nicht kennst, erscheinen erst später. Zwei bleiben geheim, bis du sie erreichst.
+- **Nur zur Ehre:** Erfolge geben keinen Bonus. Sie zeigen, was dein Bunker schon alles geschafft hat.
+
+Die Erfolge kommen mit einem eigenen Funkspruch in Kapitel 3, nach drei Expeditionen und sobald Ruß bei euch ist.
+
+### Wie eine richtige App
+
+- **Uhrzeit und Akku bleiben sichtbar:** Ashfall läuft nicht mehr im Vollbild. Oben stehen Uhrzeit und Akku, unten
+  die Leiste für Gesten. Das Spiel liegt dazwischen, Kameraloch und Statusleiste verdecken nichts mehr, und über der
+  Rohstoffleiste bleibt keine leere Lücke.
+- **Zurück mit einem Wisch:** Vom Rand wischen geht jetzt sofort zurück. Bisher holte das erste Wischen nur die
+  Systemleisten hervor.
+- **Kürzerer Fehlerbericht:** Er enthält Gerät, Version, Bildschirm, eine kurze Zusammenfassung deines Bunkers und die
+  letzten 40 Ereignisse, ohne Wiederholungen. Deinen ganzen Spielstand gibt es nur noch über „Mit Spielstand
+  kopieren“. Ein Bericht ist damit etwa zehnmal kürzer.
+
+Dein Spielstand bleibt erhalten.
+
 ## 0.8.6 · 30. Oktober 2026
 
 ### Erst alles glatt ziehen
