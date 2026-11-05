@@ -2,6 +2,8 @@
 
 <img src="banner.png" alt="Ashfall: ein Bunker bei Nacht in Pixelart, mit Neonschild Sektor 7, Lagerfeuer, Funkturm und Regen" width="100%">
 
+## Ashfall – Funk aus der Asche
+
 ### Die Welt ist gefallen. Dein Bunker steht noch.
 
 Ein Idle-Game für Android über einen Bunker in einer zerstörten Stadt,<br>
@@ -18,7 +20,7 @@ die Menschen darin und die Stimmen im Funk.
 </div>
 
 <p align="center">
-<img src="screens/01-bunker.gif" alt="Der Bunker bei Nacht, mit Regen, Neonschild und Lagerfeuer, darunter Sturmwarnung und Gebäude" width="145">
+<img src="screens/01-bunker.gif" alt="Der Bunker bei Nacht mit Regen und Lagerfeuer, darüber die Vorräte mit Zuwachs, darunter Meldefeld, Sturm, Teams und Gebäude" width="145">
 <img src="screens/02-stadt.png" alt="Die Karte von Sektor 7 mit beleuchteten und dunklen Orten" width="145">
 <img src="screens/03-funkspruch.png" alt="Ein Funkspruch aus Kapitel 2 mit einer Entscheidung" width="145">
 <img src="screens/04-echo.png" alt="Echo, die Funkerin, mit Porträt, Stimmung und Wunsch" width="145">
@@ -38,12 +40,17 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
 - **Ein Bunker, der wächst:** 13 Gebäude von der Werkstatt über den Funkturm bis zum Labor. Schrott, Nahrung,
   Wasser und Energie fließen auch, wenn du nicht spielst: bis zu acht Stunden im Nachtbetrieb mit halber Kraft.
   Wer reinschaut, bringt den Bunker auf volle Leistung.
-- **Menschen statt Einheiten:** 20 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund, und
+- **Menschen statt Einheiten:** 23 Überlebende mit Rufnamen, Porträt und Vergangenheit, dazu Ruß, der Bunkerhund, und
   Flocke, die Bunkerkatze. Sie haben Stimmungen und Wünsche, lernen Talente und kommen sich am Lagerfeuer näher.
-- **Eine Geschichte über Funk:** 84 Funksprüche in fünf Kapiteln, bis zum Ende von Sektor 7 mit drei möglichen
-  Enden. Manche verlangen eine Entscheidung, die für deinen Bunker gilt und verändert, wie es weitergeht.
-- **Eine Stadt zum Zurückholen:** 16 Orte vom Wohnblock bis zur Oper. Expeditionen mit Etappen, Proviant und
-  Ausrüstung bringen Beute, Funde und Dokumente heim. Jeder beleuchtete Ort hilft dem Bunker.
+- **Eine Geschichte über Funk:** 100 Funksprüche in sechs Kapiteln, bis zum Ende von Sektor 7 mit drei möglichen
+  Enden und weiter im Hafen von Sektor 4. Manche verlangen eine Entscheidung, die für deinen Bunker gilt und
+  verändert, wie es weitergeht.
+- **Eine Stadt zum Zurückholen:** 16 Orte vom Wohnblock bis zur Oper, im Hafen zehn weitere und das Watt.
+  Expeditionen mit Etappen, Proviant und Ausrüstung bringen Beute, Funde und Dokumente heim. Jeder beleuchtete Ort
+  hilft dem Bunker.
+- **Weiterziehen:** Nach dem Ende von Sektor 7 gehen vier Veteranen voraus in den Hafen. Was ihr geschafft habt,
+  wird zu Erinnerungen für ein Vermächtnis, das in jedem weiteren Sektor gilt. Wer bleibt, hält als Außenposten das
+  Licht und schickt Vorräte.
 - **Sturmnächte:** Etwa einmal am Tag zieht ein Aschesturm auf. Du siehst genau, was die Abwehr ausmacht und was
   dagegen steht.
 - **Kleine Schätze:** Ein tägliches Signal im Funk, Nadels Album mit allen Menschen und eine Vitrine für Relikte mit
@@ -60,7 +67,7 @@ Und im Rauschen wartet eine Geschichte, Kapitel für Kapitel. Wer da draußen se
 <p align="center">
 <img src="screens/05-expedition.png" alt="Bericht einer Expedition zur Grundschule am Wall" width="145">
 <img src="screens/06-sturmnacht.png" alt="Die Sturmnacht mit allen Posten für Abwehr und Bedrohung" width="145">
-<img src="screens/07-vitrine.png" alt="Die Vitrine mit drei ausgestellten Relikten" width="145">
+<img src="screens/07-vitrine.png" alt="Die Vitrine mit drei Fächern und gefundenen Relikten" width="145">
 <img src="screens/08-leute.png" alt="Die Leute im Bunker mit Porträts, Arbeit und Stimmung" width="145">
 </p>
 <p align="center"><sub>Ein Expeditionsbericht · Die Sturmnacht · Die Vitrine · Die Leute im Bunker</sub></p>
@@ -151,7 +158,7 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.9.1 | **Weiterziehen:** Mit Erinnerungen und Veteranen in einen neuen Sektor |
+| 0.9.2 | **Lima Echo Sieben:** Das nächste Kapitel im Hafen, mit Watt, Wrack und Warft |
 | 1.0.0 | **Google Play:** Ashfall im Play Store |
 <!-- vorschau:end -->
 
@@ -160,11 +167,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.9.1](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.1) | 5. November 2026 | Weiterziehen · Vermächtnis · Der Außenposten · Sektor 4, der Hafen · Neue Bunker-Ansicht · Und außerdem |
 | [0.9.0](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.0) | 1. November 2026 | Alles auf einmal · Die Tür · Handbuch · Flocke, die Bunkerkatze · Boni auf einen Blick · Funksprüche unterwegs |
 | [0.8.7](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.7) | 1. November 2026 | Erfolge · Wie eine richtige App |
 | [0.8.6](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.6) | 30. Oktober 2026 | Erst alles glatt ziehen · Nachts schlafen alle · In Ruhe lesen · Mehr Platz · Klarere Wege |
 | [0.8.5](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.5) | 29. Oktober 2026 | Die Karawane · Neu ausbalanciert · Aus euren Rückmeldungen |
-| [0.8.4](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.4) | 20. Oktober 2026 | Relikte |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter

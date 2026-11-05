@@ -2,6 +2,61 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.9.1 · 5. November 2026
+
+### Weiterziehen
+
+- **Der Weg nach Norden:** Ist Sektor 7 abgeschlossen, meldet sich Echo, und unter Bunker steht „Weiterziehen“. Dort
+  seht ihr vorher genau, was mitkommt und was bleibt, welche Funksprüche in Sektor 7 noch offen sind und danach nicht
+  mehr kommen, wie der neue Bunker beginnt, welche Boni wegfallen und wie viele Erinnerungen ihr bekommt. Aufgebrochen
+  wird erst nach einer Rückfrage. Wer noch nicht will, spielt in Sektor 7 weiter.
+- **Veteranen:** Vier Leute gehen voraus. Sie beginnen im neuen Sektor auf der halben Stufe und behalten Talente,
+  Ränge und Bindungen. Ruß, Flocke, das Archiv mit Logbuch und Chronik, die Erfolge, die Vitrine und alle gefundenen
+  Frequenzen kommen mit.
+- **Sicherung:** Vor dem Aufbruch legt Ashfall eine Sicherung des alten Bunkers an. Ihr findet sie unter Menü,
+  Spielstand.
+
+### Vermächtnis
+
+- **Erinnerungen:** Beleuchtete Orte, Erfolge, Funksprüche, Dokumente und die Menschen im Bunker werden beim
+  Weiterziehen zu Erinnerungen.
+- **Verbesserungen:** Damit kauft ihr in drei Zweigen Verbesserungen, die in jedem weiteren Sektor gelten, etwa einen
+  stärkeren Generator zum Start oder einen fünften Platz für Veteranen. Beim ersten Mal gibt es eine Empfehlung. Was
+  nicht gleich reicht, kauft ihr später unter Bunker, Vermächtnis. Bei jeder Verbesserung steht, ab wann sie wirkt.
+
+### Der Außenposten
+
+- **Der alte Bunker bleibt:** Wer nicht vorausgeht, hält in Sektor 7 das Licht. Alle paar Stunden schickt der
+  Außenposten Schrott, Nahrung und Wasser.
+- **Nachkommen:** Auf einen Funkruf kann jemand aus dem Außenposten nachkommen und beginnt wie die Veteranen auf der
+  halben Stufe.
+
+### Sektor 4, der Hafen
+
+- **Ein neuer Anfang:** Ein Hochbunker am Kai, Kräne, Speicher, eine alte Fähre und dahinter das Watt. Neue Orte, eine
+  neue Gruppe und drei neue Menschen, die ihr unterwegs und über Funk findet.
+- **Ein neues Kapitel:** Wer am Hafen gewartet hat und auf wen, erfahrt ihr selbst. Manches klingt anders, je nachdem,
+  wen ihr mitgenommen habt.
+- **Handbuch:** Weiterziehen, Vermächtnis und Außenposten stehen jetzt auch im Handbuch.
+
+### Neue Bunker-Ansicht
+
+- **Alles Wichtige auf einen Blick:** Oben stehen die Vorräte mit ihrem Zuwachs je Sekunde, darunter Leute, Lager und
+  Tag. Sturm, Labor und Teams stehen als große Felder im Bunker, gleich darunter der nächste Schritt und der Ausbau.
+- **Das Meldefeld:** Auf jedem Tab steht, was gerade am dringendsten ist, mit einem Knopf genau dorthin, wo es sich
+  lösen lässt. Gibt es nichts zu melden, ist es weg.
+- **Das Bunkerbild:** Es ist jetzt ein Streifen. Antippen zeigt es groß und wieder klein.
+
+### Und außerdem
+
+- **Weniger Akku:** Ashfall zeigt 60 Bilder pro Sekunde, solange ihr tippt oder wischt, und 30, sobald ihr 3
+  Sekunden nichts berührt. Bisher waren es auf schnellen Bildschirmen bis zu 120. „Akku sparen“ bleibt bei 30.
+- **Ein neuer Funkspruch:** Rost hat ein altes Kofferradio gefunden. Wer genau hinschaut, findet damit einen
+  weiteren Kanal.
+- **Der volle Name:** Das Spiel heißt jetzt „Ashfall – Funk aus der Asche“.
+
+Dein Spielstand bleibt erhalten. Wer Sektor 7 noch nicht abgeschlossen hat, spielt dort einfach weiter.
+
 ## 0.9.0 · 1. November 2026
 
 ### Alles auf einmal
