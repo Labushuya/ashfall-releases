@@ -158,7 +158,8 @@ sich noch ändern.
 <!-- vorschau:start -->
 | Version | Was kommt |
 |---|---|
-| 0.9.2 | **Lima Echo Sieben:** Das nächste Kapitel im Hafen, mit Watt, Wrack und Warft |
+| 0.9.2 | **Stimmig:** Berichte und Funksprüche erzählen genau, was passiert ist, etwa warum ein Team trotz Lampe umkehren musste, dazu „Neu beginnen“ |
+| 0.10.0 | **Lima Echo Sieben:** Das nächste Kapitel im Hafen, mit Watt, Wrack und Warft |
 | 1.0.0 | **Google Play:** Ashfall im Play Store |
 <!-- vorschau:end -->
 
