@@ -2,6 +2,19 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.9.3 · 6. November 2026
+
+### Weiterziehen kommt sicher
+
+- **Kein Hängenbleiben am Ende von Sektor 7:** Nach „Station 0 antwortet“ kommen einige Funksprüche nacheinander,
+  darunter Verbindungen wie „Anwesend“, „Leiser“ oder „Bis zum Hafen“. Solange eine davon ungelesen war, wartete
+  auch „Wer vorausgeht“, und erst dieser Funkspruch öffnet das Weiterziehen. Der Bunker hat darauf nicht
+  hingewiesen. Jetzt steht ein solcher Funkspruch als nächster Schritt da, mit einem Knopf zum Lesen.
+- **Wer festhing:** Nach dem Update steht der wartende Funkspruch sofort im Bunker. Wer ihn liest, bekommt danach
+  „Wer vorausgeht“, und über den Gebäuden erscheint „Weiterziehen nach Sektor 4“.
+
+Danke für die Rückmeldung aus der Testrunde. Dein Spielstand bleibt erhalten.
+
 ## 0.9.2 · 6. November 2026
 
 ### Texte, die stimmen

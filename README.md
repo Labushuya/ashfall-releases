@@ -167,11 +167,11 @@ sich noch ändern.
 <!-- versionen:start -->
 | Version | Erschienen | Neu |
 |---|---|---|
+| [0.9.3](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.3) | 6. November 2026 | Weiterziehen kommt sicher |
 | [0.9.2](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.2) | 6. November 2026 | Texte, die stimmen · Expeditionen · Im Hafen · Im Bunker · Neu beginnen |
 | [0.9.1](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.1) | 5. November 2026 | Weiterziehen · Vermächtnis · Der Außenposten · Sektor 4, der Hafen · Neue Bunker-Ansicht · Und außerdem |
 | [0.9.0](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.9.0) | 1. November 2026 | Alles auf einmal · Die Tür · Handbuch · Flocke, die Bunkerkatze · Boni auf einen Blick · Funksprüche unterwegs |
 | [0.8.7](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.7) | 1. November 2026 | Erfolge · Wie eine richtige App |
-| [0.8.6](https://github.com/Labushuya/ashfall-releases/releases/tag/v0.8.6) | 30. Oktober 2026 | Erst alles glatt ziehen · Nachts schlafen alle · In Ruhe lesen · Mehr Platz · Klarere Wege |
 <!-- versionen:end -->
 
 Alle Versionen mit ihren Notizen stehen in [CHANGELOG.md](CHANGELOG.md), die Downloads unter
