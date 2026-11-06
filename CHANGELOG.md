@@ -2,6 +2,59 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.9.2 · 6. November 2026
+
+### Texte, die stimmen
+
+Diese Version bringt keine neuen Orte und kein neues Kapitel. Sie sorgt dafür, dass Berichte, Funksprüche und
+Erklärungen genau das sagen, was im Spiel passiert. Anlass war eine Frage aus der Testrunde: „Im Dunkeln haben sie
+sich verlaufen, aber eine Tier-3-Taschenlampe war mit im Team. Gewollt oder Bug?“ Gewollt war der Wurf, aber der
+Bericht hat nicht erklärt, warum.
+
+### Expeditionen
+
+- **Ehrliche Berichte:** Kehrt ein Team an einer Hürde um, steht dort, was geholfen hat und mit welcher Chance
+  gewürfelt wurde, etwa: „Der Handscheinwerfer von Elster hat geholfen. Trotzdem haben sie sich im Dunkeln verlaufen
+  und mussten zurück. Die Chance lag bei 90 %. Diesmal hat es nicht gereicht.“ Mehr als 98 % gibt es an keiner
+  Hürde.
+- **Sturmnacht unterwegs:** Sie macht nur noch die Hürden nach dem Sturm 8 % schwerer, nicht mehr die ganze Tour. Im
+  Bericht steht sie an der Stelle, an der sie das Team erwischt hat. Läuft eine Expedition in eine angekündigte
+  Sturmnacht, warnt die Planung vorher mit der Aussicht.
+- **Verletzungsrisiko:** Statt „kehrt heil um“ nennt die Planung die echten Zahlen. Schutzkleidung senkt sie.
+- **Antworten unterwegs:** Sie versprechen nur noch, was sie bewirken. Keine Antwort macht eine Tour kürzer oder
+  länger. Wer mit Kauz mitgeht, kommt schon auf dieser Tour leichter durch.
+- **Beute und Erfahrung:** Der Bericht trennt die Beute des Ortes von dem, was eine Antwort gebracht hat, und zeigt
+  echte Erfahrungspunkte.
+
+### Im Hafen
+
+- **Wiedersehen kommen nur einmal**, auch wenn jemand aus dem Außenposten nachkommt.
+- **Wünsche an Orten aus Sektor 7** halten keine anderen Wünsche mehr auf.
+- **Die Gründer** kommen aus dem Außenposten so oft nach wie alle anderen.
+- **Flocke** kann auch nach dem Weiterziehen noch kommen. Die Texte nennen sie, Ruß und alle anderen nur, wenn sie
+  wirklich da sind.
+- **Funksprüche unterwegs** von Gruppen aus Sektor 7, etwa den Kalten oder den Eisenbahnern, kommen im Hafen nicht
+  mehr.
+
+### Im Bunker
+
+- **Verletzte behalten ihren Platz** und zeigen, wann sie wieder fit sind, statt als „unterwegs“ oder „frei“ zu
+  gelten.
+- **Ohne Strom** nennt der Text genau, was langsamer wird. Der Funk gehört nicht dazu.
+- **Sturmnächte:** Vorschau und Bericht nennen echte Zahlen und nur die Beute, die ins Lager gepasst hat.
+- **Nachtbetrieb, Karawane und gesperrte Gebäude** sagen, was wirklich gilt, etwa die echte Bedingung statt „ab
+  Kapitel 4“.
+- **Handbuch:** Expeditionen, Waffenkammer und Weiterziehen stehen dort jetzt mit den Zahlen aus dem Spiel, dazu
+  „Neu beginnen“.
+
+### Neu beginnen
+
+- Unter Menü, Spielstand lässt sich ein neuer Bunker anfangen. Vorher steht dort, was verloren geht. Erst nach zwei
+  Bestätigungen geht es los. Der alte Bunker bleibt dort als Sicherung und lässt sich wieder laden, bis du noch
+  einmal neu beginnst. Einstellungen bleiben, wie sie sind.
+
+Dein Spielstand bleibt erhalten. Updates setzen nie etwas zurück, neu beginnen kannst nur du selbst.
+
 ## 0.9.1 · 5. November 2026
 
 ### Weiterziehen
