@@ -2,6 +2,28 @@
 
 Was sich in Ashfall mit jeder Version geändert hat, die neueste oben. Die Downloads stehen unter [Releases](https://github.com/Labushuya/ashfall-releases/releases).
 
+## 0.10.0 · 7. November 2026
+
+### Kapitel 7: Lima Echo Sieben
+
+- **Ins Watt:** Mit der Gezeitentafel aus dem Lotsenhaus geht es bei der niedrigsten Ebbe ins Watt. Jemand hat dort
+  einen Pfahlweg gesteckt. Was an seinem Ende im Schlick liegt, erfahrt ihr selbst.
+- **Gefährlich:** Das Watt ist der gefährlichste Ort am Hafen, Gefahr 5, mit Ascheluft, Dunkelheit und Augen im
+  Dunkeln. Schickt Erfahrene, mit Schutz, Lampe und Waffe und genug Proviant, zum Wrack auch mit Werkzeug.
+  Beleuchten lässt sich dort nichts, die Flut nimmt jede Lampe mit.
+- **Neue Orte und Dokumente:** Zwei neue Orte draußen im Watt und drei Dokumente für das Archiv.
+- **Mit und ohne sie:** Mehrere Funksprüche klingen anders, je nachdem, wer vorausgegangen ist und wer im
+  Außenposten geblieben ist. Wer bleibt, erfährt es über Funk, und wer später nachkommt, hört es nicht ein zweites
+  Mal.
+
+### Und außerdem
+
+- **Orte ohne Licht:** Warum sich ein Ort nicht beleuchten lässt, steht jetzt gleich unter Fortschritt.
+- **Der nächste Schritt führt direkter:** Wird ein Dokument gesucht, geht es zu dem Ort, an dem es liegt,
+  sobald er bekannt ist. Erscheint ein Ort erst hinter einem anderen, geht es zu diesem.
+
+Dein Spielstand bleibt erhalten.
+
 ## 0.9.3 · 6. November 2026
 
 ### Weiterziehen kommt sicher
